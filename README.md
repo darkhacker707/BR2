@@ -18,7 +18,7 @@ $ chmod +x install.sh
 
 $ bash install.sh
 
-$ python3 BR2.py
+$ python3 BR2.pyc
 
 
 # [-] END
