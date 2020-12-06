@@ -6,7 +6,7 @@ The tool is very powerful, combining the most powerful tools, including msfvenom
 
 If you want a password, chat with me on Instagram @g.mc.7x
 
-https://www.instagram.com/g.mc.7x/
+https://www.instagram.com/me3.f/
 
 
 
